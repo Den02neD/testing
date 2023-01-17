@@ -1,2 +1,6 @@
 # testing
-👋 Hi, I’m Den 👀 I’m interested in ______________ 🌱 I’m currently learning ____________ 💞️ I’m looking to collaborate on ____________ 📫 How to reach me ________________
+👋 Hi, I’m Den 👀 
+I’m interested in web3
+🌱 I’m currently learning
+💞️ I’m looking to collaborate on web3 projects
+📫 How to reach me -dm me
